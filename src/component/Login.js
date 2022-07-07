@@ -82,8 +82,8 @@ export default function Login() {
                     </Grid>
                 </Grid>
             </form>
-            <Typography variant='h6' gutterBottom>
-                ForstaffID email: staff@gmail.com password:123456
+            <Typography variant='h7' gutterBottom>
+                ForStaff-ID Email: staff@gmail.com ,Password:123456
             </Typography>
         </Box>
       </Container>
