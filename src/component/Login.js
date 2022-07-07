@@ -83,7 +83,7 @@ export default function Login() {
                 </Grid>
             </form>
             <Typography variant='h7' gutterBottom>
-                ForStaff-ID Email: staff@gmail.com ,Password:123456
+                ForStaff-ID Email: staff@email.com ,Password:123456
             </Typography>
         </Box>
       </Container>
